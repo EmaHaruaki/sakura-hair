@@ -113,7 +113,7 @@ function App() {
           <div className="grid md:grid-cols-3 gap-8">
             <div className="text-center">
               <img
-                src="https://images.unsplash.com/photo-1580618672591-eb180b1a973f?auto=format&fit=crop&q=80&w=400"
+                src="/staff1.jpg?auto=format&fit=crop&q=80&w=400"
                 alt="Stylist 1"
                 className="w-48 h-48 rounded-full mx-auto mb-4 object-cover"
               />
